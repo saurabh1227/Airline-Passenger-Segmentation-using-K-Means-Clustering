@@ -1,0 +1,27 @@
+{
+  "k": 4,
+  "features": [
+    "Seat comfort",
+    "Departure/Arrival time convenient",
+    "Food and drink",
+    "Gate location",
+    "Inflight wifi service",
+    "Inflight entertainment",
+    "Online support",
+    "Ease of Online booking",
+    "On-board service",
+    "Leg room service",
+    "Baggage handling",
+    "Checkin service",
+    "Cleanliness",
+    "Online boarding"
+  ],
+  "traits": {
+    "0": "Rated higher: Seat comfort, Food and drink, Departure/Arrival time convenient",
+    "1": "Rated higher: Ease of Online booking, Online boarding, On-board service | Rated lower: Gate location, Food and drink, Seat comfort",
+    "2": "Rated lower: Cleanliness, Baggage handling, On-board service",
+    "3": "Rated lower: Online support, Online boarding, Ease of Online booking"
+  },
+  "n_passengers": 129880,
+  "inertia": 1171821.1518504634
+}
